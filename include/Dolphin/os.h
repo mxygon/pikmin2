@@ -71,6 +71,8 @@ extern void OSInitCond(OSThreadQueue*);
 extern u32 OSWaitCond(OSThreadQueue*, OSMutexObject*);
 extern void OSSignalCond(OSThreadQueue*);
 
+void __OSModuleInit(void);
+
 #ifdef __cplusplus
 };
 #endif // ifdef __cplusplus
