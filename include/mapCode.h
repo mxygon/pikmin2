@@ -5,14 +5,14 @@
 #include "Container.h"
 
 namespace MapCode {
-	typedef u8 Code;
+typedef u8 Code;
 
-	struct Mgr {
-		struct CodeArray : ArrayContainer<MapCode::Code> {
-		};
-
-		Mgr();
+struct Mgr {
+	struct CodeArray : ArrayContainer<MapCode::Code> {
 	};
+
+	Mgr();
+};
 } // namespace MapCode
 
 #endif

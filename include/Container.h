@@ -23,8 +23,8 @@ template <typename T> struct Container : public CNode {
 	// Gets the slot count.
 	virtual int getTo();
 
-	u8 _18;    // _18
-	// u8 _19[3]; // _19
+	u8 _18; // _18
+	        // u8 _19[3]; // _19
 };
 
 template <typename T> struct ArrayContainer : public Container<T> {
@@ -38,7 +38,7 @@ template <typename T> struct ArrayContainer : public Container<T> {
 
 	int m_endIndex; // _1C
 	int _20;        // _20
-	T*  m_objects;  // _24
+	T* m_objects;   // _24
 };
 
 // template <> struct ArrayContainer<int> {
