@@ -71,7 +71,12 @@ extern void OSInitCond(OSThreadQueue*);
 extern u32 OSWaitCond(OSThreadQueue*, OSMutexObject*);
 extern void OSSignalCond(OSThreadQueue*);
 
+// OSLink
 void __OSModuleInit(void);
+
+// targsupp
+extern void func_800BFA40(void);
+extern void func_800BFA50(void);
 
 #ifdef __cplusplus
 };
