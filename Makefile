@@ -13,7 +13,6 @@ TARGET_COL := gc
 
 NAME := pikmin2
 VERSION := usa
-#VERSION := usa.demo
 
 BUILD_DIR := build/$(NAME).$(VERSION)
 
