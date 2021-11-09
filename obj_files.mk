@@ -971,7 +971,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/bombMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/bomb.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/eggState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/eggAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/eggAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/eggMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/egg.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModokiState.o\
