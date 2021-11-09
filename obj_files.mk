@@ -562,7 +562,7 @@ KANDO:=\
 	$(BUILD_DIR)/asm/plugProjectKandoU/gameGeneratorCache.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/itemTreasure.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/itemDownFloor.o\
-	$(BUILD_DIR)/asm/plugProjectKandoU/kandoLib.o\
+	$(BUILD_DIR)/src/plugProjectKandoU/kandoLib.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/itemBarrel.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/pelletNumber.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/pelletCarcass.o\
