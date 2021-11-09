@@ -71,6 +71,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/sysCommonU/tagparams.cpp">sysCommonU/tagparams.cpp</a>
 - utilityU
 - plugProjectKonoU
+	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectKonoU/khMailSaveData.cpp">plugProjectKonoU/khMailSaveData.cpp</a>
 - plugProjectOgawaU
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectOgawaU/ogAngleMgr.cpp">plugProjectOgawaU/ogAngleMgr.cpp</a>
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectOgawaU/ogLib2D.cpp">plugProjectOgawaU/ogLib2D.cpp</a>
