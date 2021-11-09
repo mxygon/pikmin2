@@ -2403,14 +2403,15 @@ void CellPyramid::entry(CellObject* param_1, Sys::Sphere& param_2, int& param_3,
 			cell->exit(&param_1->m_cellLegs.arrayView[iVar9], bVar5);
 			// 			if (cell->_1C == &param_1.m_cellLegs.arrayView[iVar9]) {
 			// 				cell->_1C =
-			// param_1.m_cellLegs.arrayView[iVar9].m_next; 				if (cell->_1C
+			// param_1.m_cellLegs.arrayView[iVar9].m_next; 				if
+			// (cell->_1C
 			// != nullptr) { 					cell->_1C->m_prev = nullptr;
 			// 				}
 			// 			}
 			// 			if ((bVar5) && (cell->_14 != 0)) {
 			// 				cell->_14--;
-			// 				for (Cell* iCell = cell->_10; iCell != nullptr; iCell
-			// = iCell->_10) { 					iCell->_16--;
+			// 				for (Cell* iCell = cell->_10; iCell != nullptr;
+			// iCell = iCell->_10) { 					iCell->_16--;
 			// 				}
 			// 			}
 			// 			cell->_18--;
