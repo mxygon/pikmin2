@@ -967,7 +967,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/gameOver2D.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/testBase.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/bombState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/bombAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/bombAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/bombMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/bomb.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/eggState.o\
