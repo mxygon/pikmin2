@@ -108,6 +108,7 @@ JSYSTEM:=\
 	$(BUILD_DIR)/asm/JSystem/J2D/J2DWindowEx.o\
 	$(BUILD_DIR)/asm/JSystem/J2D/J2DAnmLoader.o\
 	$(BUILD_DIR)/asm/JSystem/J2D/J2DBloSaver.o\
+	$(BUILD_DIR)/src/JSystem/J2D/J2DManage.o\
 	$(BUILD_DIR)/asm/JSystem/J2D/J2DManage.o\
 	$(BUILD_DIR)/asm/JSystem/J2D/J2DMatBlock.o\
 	$(BUILD_DIR)/asm/JSystem/J2D/J2DMaterial.o\
