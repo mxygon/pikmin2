@@ -90,6 +90,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 - plugProjectMorimuraU
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectMorimuraU/bombAnimator.cpp">plugProjectMorimuraU/bombAnimator.cpp</a>
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectMorimuraU/eggAnimator.cpp">plugProjectMorimuraU/eggAnimator.cpp</a>
+	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectMorimuraU/jigumoAnimator.cpp">plugProjectMorimuraU/jigumoAnimator.cpp</a>
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectMorimuraU/tyreAnimator.cpp">plugProjectMorimuraU/tyreAnimator.cpp</a>
 - plugProjectNishimuraU
 - plugProjectYamashitaU

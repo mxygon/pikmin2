@@ -989,7 +989,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/miulinMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/miulin.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/jigumoState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/jigumoAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/jigumoAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/jigumoMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/jigumo.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/enemyNestMgr.o\
