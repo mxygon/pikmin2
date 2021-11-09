@@ -979,7 +979,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModokiMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModoki.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/plantsMgr.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/plantsAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/plantsAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/plants.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/kingChappyState.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/kingChappyMgr.o\
@@ -995,7 +995,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/enemyNestMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/enemyNest.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/tamagoMushiState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/tamagoMushiAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/tamagoMushiAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/tamagoMushiMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/tamagoMushi.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/zukan2D.o\
@@ -1005,7 +1005,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/umiMushiMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/umiMushi.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/shijimiChouState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/shijimiChouAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/shijimiChouAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/shijimiChouMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/shijimiChou.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/challengeSelect2D.o\
@@ -1015,7 +1015,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/scrollList.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/mrWindow.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/blackManState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/blackManAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/blackManAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/blackManMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/blackMan.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/tyreState.o\
