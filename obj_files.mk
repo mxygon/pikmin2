@@ -624,7 +624,7 @@ KANDO:=\
 	$(BUILD_DIR)/asm/plugProjectKandoU/texCaster.o\
 	$(BUILD_DIR)/src/plugProjectKandoU/vsCoinOtakaraName.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/pelletBirthBuffer.o\
-	$(BUILD_DIR)/asm/plugProjectKandoU/vsFifo.o\
+	$(BUILD_DIR)/src/plugProjectKandoU/vsFifo.o\
 
 NISHIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectNishimuraU/nslibmath.o\

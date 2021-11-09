@@ -81,6 +81,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectKandoU/pelletCarry.cpp">plugProjectKandoU/pelletCarry.cpp</a>
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectKandoU/pelletConfig.cpp">plugProjectKandoU/pelletConfig.cpp</a>
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectKandoU/vsCoinOtakaraName.cpp">plugProjectKandoU/vsCoinOtakaraName.cpp</a>
+	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectKandoU/vsFifo.cpp">plugProjectKandoU/vsFifo.cpp</a>
 - plugProjectHikinoU
 	- <a href="https://github.com/doldecomp/pikmin2/tree/main/src/plugProjectHikinoU/PSCreatureMgr.cpp">plugProjectHikinoU/PSCreatureMgr.cpp</a>
 - plugProjectEbisawaU
