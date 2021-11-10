@@ -16,9 +16,9 @@ u32 KandoLib::getRandomChoice(KandoLib::Choice* choices, int choiceAmt)
 		curChance += curChoice->m_chance;
 
 		if (rngChance < curChance) {
-			return choices[i]._00;
+			return choices[i].m_result;
 		}
 	}
 
-	return choices[choiceAmt - 1]._00;
+	return choices[choiceAmt - 1].m_result;
 }
