@@ -455,7 +455,7 @@ YAMASHITA:=\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/genEnemy.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/timeMgr.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/pelplantGenerator.o\
-	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyInteractActions.o\
+	$(BUILD_DIR)/src/plugProjectYamashitaU/enemyInteractActions.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyAnimatorBase.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoneMgr.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoenInfo.o\
@@ -515,7 +515,6 @@ KANDO:=\
 	$(BUILD_DIR)/asm/plugProjectKandoU/aiPrimitives.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/aiFormation.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/creatureStick.o\
-	$(BUILD_DIR)/src/plugProjectKandoU/interactBattle.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/interactBattle.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/aiFree.o\
 	$(BUILD_DIR)/asm/plugProjectKandoU/aiAttack.o\
