@@ -103,6 +103,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 - plugProjectYamashitaU
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/chappyAnimator.cpp">plugProjectYamashitaU/chappyAnimator.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyInfo.cpp">plugProjectYamashitaU/enemyInfo.cpp</a>
+	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyParmsBase.cpp">plugProjectYamashitaU/enemyParmsBase.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyPelletInfo.cpp">plugProjectYamashitaU/enemyPelletInfo.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/kochappyAnimator.cpp">plugProjectYamashitaU/kochappyAnimator.cpp</a>
 - JSystem

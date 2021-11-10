@@ -461,7 +461,7 @@ YAMASHITA:=\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoenInfo.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoneDrawInfo.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoneObj.o\
-	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyParmsBase.o\
+	$(BUILD_DIR)/src/plugProjectYamashitaU/enemyParmsBase.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/walkSmokeEffect.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/ChappyBaseMgr.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/ChappyBase.o\
