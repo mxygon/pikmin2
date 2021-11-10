@@ -37,7 +37,7 @@ JSYSTEM:=\
 	$(BUILD_DIR)/asm/JSystem/JAI/control.o\
 	$(BUILD_DIR)/src/JSystem/J3D/J3DUDL.o\
 	$(BUILD_DIR)/asm/JSystem/J3D/J3DUMotion.o\
-	$(BUILD_DIR)/asm/JSystem/J3D/J3DUShadow.o\
+	$(BUILD_DIR)/src/JSystem/J3D/J3DUShadow.o\
 	$(BUILD_DIR)/asm/JSystem/J3D/J3DUMtxCache.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRAram.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRAramArchive.o\
