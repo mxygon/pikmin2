@@ -116,6 +116,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/JAS/JASBank.cpp">JSystem/JAS/JASBank.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/JAS/JASInstEffect.cpp">JSystem/JAS/JASInstEffect.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/JAS/JASWaveBank.cpp">JSystem/JAS/JASWaveBank.cpp</a>
+	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/JKR/JKRFile.cpp">JSystem/JKR/JKRFile.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/JUT/JUTFontData_Ascfont_fix12.cpp">JSystem/JUT/JUTFontData_Ascfont_fix12.cpp</a>
 ### WIP
 - sysBootupU

@@ -57,7 +57,7 @@ JSYSTEM:=\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRExpHeap.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRFileCache.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRFileFinder.o\
-	$(BUILD_DIR)/asm/JSystem/JKR/JKRFile.o\
+	$(BUILD_DIR)/src/JSystem/JKR/JKRFile.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRFileLoader.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRHeap.o\
 	$(BUILD_DIR)/asm/JSystem/JKR/JKRMemArchive.o\
