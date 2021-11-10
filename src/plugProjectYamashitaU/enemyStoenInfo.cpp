@@ -1,26 +1,10 @@
-#include "types.h"
+#include "Game/EnemyStone.h"
 #include "stream.h"
 #include "Vector3.h"
 #include "Dolphin/math.h"
-#include "Matrixf.h"
 
 namespace Game {
 namespace EnemyStone {
-	struct ObjInfo {
-		ObjInfo();
-
-		char* m_name;          // _00
-		s32 _04;               // _04
-		Matrixf m_modelMatrix; // _08
-	};
-
-	struct Info {
-		void setup(Stream& stream);
-
-		u8 m_infoCnt;       // _00
-		ObjInfo* m_infoArr; // _04
-	};
-
 	/*
 	 * --INFO--
 	 * Address:	80128108
