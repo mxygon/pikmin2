@@ -102,6 +102,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 - plugProjectNishimuraU
 - plugProjectYamashitaU
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/chappyAnimator.cpp">plugProjectYamashitaU/chappyAnimator.cpp</a>
+	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyAnimatorBase.cpp">plugProjectYamashitaU/enemyAnimatorBase.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyInfo.cpp">plugProjectYamashitaU/enemyInfo.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyInteractActions.cpp">plugProjectYamashitaU/enemyInteractActions.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyParmsBase.cpp">plugProjectYamashitaU/enemyParmsBase.cpp</a>
