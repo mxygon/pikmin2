@@ -1,4 +1,4 @@
-#include "Game/TamagoMushi_ProperAnimator.h"
+#include "Game/TamagoMushi.h"
 
 namespace Game {
 namespace TamagoMushi {

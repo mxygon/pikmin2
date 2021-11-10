@@ -975,7 +975,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/eggMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/egg.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModokiState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModokiAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/panModokiAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModokiMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/panModoki.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/plantsMgr.o\
@@ -1001,7 +1001,7 @@ MORIMURA:=\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/zukan2D.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/hiScore2D.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/umiMushiState.o\
-	$(BUILD_DIR)/asm/plugProjectMorimuraU/umiMushiAnimator.o\
+	$(BUILD_DIR)/src/plugProjectMorimuraU/umiMushiAnimator.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/umiMushiMgr.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/umiMushi.o\
 	$(BUILD_DIR)/asm/plugProjectMorimuraU/shijimiChouState.o\

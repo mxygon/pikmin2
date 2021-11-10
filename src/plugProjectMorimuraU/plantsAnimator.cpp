@@ -1,4 +1,4 @@
-#include "Game/Plants_ProperAnimator.h"
+#include "Game/Plants.h"
 
 namespace Game {
 namespace Plants {

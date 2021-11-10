@@ -1,4 +1,4 @@
-#include "Game/Miulin_ProperAnimator.h"
+#include "Game/Miulin.h"
 
 namespace Game {
 namespace Miulin {

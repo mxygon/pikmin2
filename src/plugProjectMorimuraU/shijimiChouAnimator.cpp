@@ -1,4 +1,4 @@
-#include "Game/ShijimiChou_ProperAnimator.h"
+#include "Game/ShijimiChou.h"
 
 namespace Game {
 namespace ShijimiChou {

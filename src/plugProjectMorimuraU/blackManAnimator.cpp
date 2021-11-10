@@ -1,4 +1,4 @@
-#include "Game/BlackMan_ProperAnimator.h"
+#include "Game/BlackMan.h"
 
 namespace Game {
 namespace BlackMan {

@@ -1,4 +1,4 @@
-#include "Game/Tyre_ProperAnimator.h"
+#include "Game/Tyre.h"
 
 namespace Game {
 namespace Tyre {

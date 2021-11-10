@@ -1,4 +1,4 @@
-#include "Game/Egg_ProperAnimator.h"
+#include "Game/Egg.h"
 
 namespace Game {
 namespace Egg {

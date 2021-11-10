@@ -1,4 +1,4 @@
-#include "Game/Jigumo_ProperAnimator.h"
+#include "Game/Jigumo.h"
 
 namespace Game {
 namespace Jigumo {
