@@ -177,7 +177,7 @@ JSYSTEM:=\
 	$(BUILD_DIR)/asm/JSystem/JAS/JASBasicWaveBank.o\
 	$(BUILD_DIR)/asm/JSystem/JAS/JASBNKParser.o\
 	$(BUILD_DIR)/asm/JSystem/JAS/JASDrumSet.o\
-	$(BUILD_DIR)/asm/JSystem/JAS/JASInstEffect.o\
+	$(BUILD_DIR)/src/JSystem/JAS/JASInstEffect.o\
 	$(BUILD_DIR)/asm/JSystem/JAS/JASInstRand.o\
 	$(BUILD_DIR)/asm/JSystem/JAS/JASInstSense.o\
 	$(BUILD_DIR)/asm/JSystem/JAS/JASSimpleWaveBank.o\
