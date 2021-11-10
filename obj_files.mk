@@ -458,7 +458,7 @@ YAMASHITA:=\
 	$(BUILD_DIR)/src/plugProjectYamashitaU/enemyInteractActions.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyAnimatorBase.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoneMgr.o\
-	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoenInfo.o\
+	$(BUILD_DIR)/src/plugProjectYamashitaU/enemyStoenInfo.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoneDrawInfo.o\
 	$(BUILD_DIR)/asm/plugProjectYamashitaU/enemyStoneObj.o\
 	$(BUILD_DIR)/src/plugProjectYamashitaU/enemyParmsBase.o\

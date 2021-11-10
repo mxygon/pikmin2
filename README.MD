@@ -106,6 +106,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyInteractActions.cpp">plugProjectYamashitaU/enemyInteractActions.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyParmsBase.cpp">plugProjectYamashitaU/enemyParmsBase.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyPelletInfo.cpp">plugProjectYamashitaU/enemyPelletInfo.cpp</a>
+	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyStoenInfo.cpp">plugProjectYamashitaU/enemyStoenInfo.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/kochappyAnimator.cpp">plugProjectYamashitaU/kochappyAnimator.cpp</a>
 - JSystem
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/data.cpp">JSystem/data.cpp</a>
