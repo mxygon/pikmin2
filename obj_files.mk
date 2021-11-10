@@ -9,7 +9,7 @@ JSYSTEM:=\
 	$(BUILD_DIR)/asm/JSystem/object/object-particle.o\
 	$(BUILD_DIR)/asm/JSystem/JPA/control.o\
 	$(BUILD_DIR)/asm/JSystem/resource.o\
-	$(BUILD_DIR)/asm/JSystem/data.o\
+	$(BUILD_DIR)/src/JSystem/data.o\
 	$(BUILD_DIR)/asm/JSystem/processor.o\
 	$(BUILD_DIR)/asm/JSystem/control.o\
 	$(BUILD_DIR)/asm/JSystem/stb/stb-data-parse.o\

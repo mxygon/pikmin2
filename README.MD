@@ -106,6 +106,7 @@ When compiling the project, this patch is automatically applied, if it fails to 
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/enemyPelletInfo.cpp">plugProjectYamashitaU/enemyPelletInfo.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/plugProjectYamashitaU/kochappyAnimator.cpp">plugProjectYamashitaU/kochappyAnimator.cpp</a>
 - JSystem
+	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/data.cpp">JSystem/data.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/J3D/J3DBinaryFormat.cpp">JSystem/J3D/J3DBinaryFormat.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/J3D/J3DModelSaver.cpp">JSystem/J3D/J3DModelSaver.cpp</a>
 	- <a href="https://github.com/io55/pikmin2/tree/main/src/JSystem/J3D/J3DShapeDraw.cpp">JSystem/J3D/J3DShapeDraw.cpp</a>
