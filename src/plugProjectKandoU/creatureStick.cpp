@@ -9,6 +9,12 @@ namespace Game {
  */
 void Creature::clearStick(void)
 {
+	_100 = 0;
+	_FC = 0;
+	_F4 = 0;
+	_F0 = 0;
+	_F8 = 0;
+	_110 = -1; // byte
 	/*
 	.loc_0x0:
 	  li        r4, 0
@@ -30,6 +36,14 @@ void Creature::clearStick(void)
  */
 void Creature::releaseAllStickers(void)
 {
+	// Move this to r31
+	// bl 0x554?
+	// if _F0 != 0 go to start
+
+	while (_F0) {
+		// bl 0x554 unsure of function without access to DOL
+	}
+
 	/*
 	.loc_0x0:
 	  stwu      r1, -0x10(r1)
@@ -1354,8 +1368,9 @@ void Stickers::get(void*)
  * Address:	8019FE60
  * Size:	000008
  */
-void Stickers::getNext(void*)
+void* Stickers::getNext(void* a1)
 {
+	return (void*)(((char*)from)+1);
 	/*
 	.loc_0x0:
 	  addi      r3, r4, 0x1
