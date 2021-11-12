@@ -9,6 +9,9 @@ namespace Game {
  */
 AILODParm::AILODParm()
 {
+	_00 = float1;
+	_04 = float2;
+	_08 = float2;
 	/*
 	.loc_0x0:
 	  lfs       f1, -0x4C10(r2)
@@ -28,6 +31,11 @@ AILODParm::AILODParm()
  */
 AILOD::AILOD()
 {
+	_00 = 0;
+	_01 = 0;
+
+	// Inlined constructor or function
+	_00 = 16;
 	/*
 	.loc_0x0:
 	  li        r4, 0
