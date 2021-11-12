@@ -44,6 +44,7 @@ namespace Screen {
 		u8 isWaitScreen(void);
 		u8 isCloseScreen(void);
 
+		// _00 VTBL
 		JKRArchive* m_archive; // _04
 		s32 m_state;           // _08
 	};

@@ -1,15 +1,13 @@
 #ifndef _GAME_CAVE_TEKIINFO_H
 #define _GAME_CAVE_TEKIINFO_H
 
-#include "CNode.h"
-#include "Game/enemyInfo.h"
-#include "BaseParm.h"
-#include "stream.h"
-#include "Graphics.h"
-#include "Matrixf.h"
-#include "Vector3.h"
 #include "types.h"
-#include "Game/PelletMgr.h"
+#include "CNode.h"
+#include "Vector3.h"
+#include "Parameters.h"
+#include "BaseParm.h"
+
+struct Matrixf;
 
 namespace Game {
 namespace Cave {

@@ -12,15 +12,15 @@ namespace title {
 
 	void TTitleCameraMgr::update()
 	{
-		float178 += float1BC;
-		float18C = 0.0f;
-		float190 = 0.0f;
-		float194 = -1.0f;
-		float180 = float174;
-		float184 = float178;
-		float188 = float17C;
-		float184 -= 1.0f;
-		float28 = float1E4;
+		_178 += _1BC;
+		_18C = 0.0f;
+		_190 = 0.0f;
+		_194 = -1.0f;
+		_180 = _174;
+		_184 = _178;
+		_188 = _17C;
+		_184 -= 1.0f;
+		float28 = _1E4;
 		Camera::update();
 	}
 
