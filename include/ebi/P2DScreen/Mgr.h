@@ -5,7 +5,6 @@
 #include "CNode.h"
 
 namespace P2DScreen {
-
 struct Node : public CNode {
 	virtual ~Node() { }
 	virtual void update();
